@@ -1,45 +1,41 @@
 
-### Hey there, I'm Elizabeth
+## Hey there 👋🏾, I'm Elizabeth
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+Welcome to my GitHub! I'm a passionate frontend developer who's all about creating awesome and user-friendly products. Currently, I work at [Workshop Orange](https://workshoporange.co/), where we make sure our clients get exceptional experiences while providing high-quality solutions. My specialties? Scalability, accessibility, and interactivity. 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23E673F7&size=16&duration=4000&width=500&lines=Frontend+web+developer;Javascript+(React+and+Vue);2+years+of+working+experience;always+eager+to+learn+new+things+)](https://git.io/typing-svg)
+### 👩🏾‍💻 About me
+
+- 🌱 I am currently learning system design, web core vitals, and performance.
+- 🔭 I’m currently working on [She Code Africa](https://github.com/she-code-africa/SCA-WEBSITE-V3) website.
+- ⭐️ I'm looking to contribute to open-source projects that raise awareness about web accessibility.
+- 🤔 I’m looking for help with improving my frontend animations and website performance.
+- 💬 Ask me about web accessibility or creating a better experience for women in the tech community!
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I used to work as a backend PHP developer, specializing in Laravel. However, my true passion for web development blossomed when I discovered frontend work. Since then, I've found great joy in creating amazing user experiences.
+- 🤖 Geeky fun fact: I'm a CSS enthusiast! I've gathered loads of interesting CSS facts and theories along the way. There's just something so cool about playing with CSS and creating eye-catching designs for websites.
 
 
-<!-- Contact section -->
-#### 📞 Contact
-<p>  
-  <a href="https://twitter.com/ilizette7">
-   <img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/nolan/64/twitter.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/ilizette">
-   <img width="32px" alt="Dev.to" title="ilizette Dev.to" src="https://img.icons8.com/windows/50/DD2FBE/dev.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+### 💡 Skills:
 
-### 📌 Top projects I've contributed to 
+- 🛠️ Frontend: CSS, HTML, React/Gatsby/NextJS, Vue/Nuxt, Typescript.  
+- 🛠️ Testing: Jest, react-testing-library, Cypress
+- 🛠️ Accessibility: I have experience in implementing accessibility standards, and running automated, manual, and assistive technology a11y testing.
+- 🛠️ Interactivity: I have experience in creating interactive features and implementing smooth web animations.
+- 🛠️ Technical writing: I currently write beginner-friendly articles on [dev.to](https://dev.to/ilizette).
+  
+🎯 I am always eager to stay updated with the latest frontend technologies and best practices to enhance my development process.
+
+
+### 📨 Connect with me
+
+Let's talk tech, collaborate on projects, or just shoot the breeze 🚀! I'm always up for meeting new people and discussing cool ideas. Whether it's AI, data visualization, web3, open-source, or technical writing,  I'm interested in it all!
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/elizabeth-lola/)  
+
+### 📌 Open-source projects I've contributed to 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=layer5io&repo=layer5&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 &#8287;&#8287;&#8287;&#8287;&#8287; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=she-code-africa&repo=SCA-WEBSITE-V3&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) &#8287;&#8287;&#8287;&#8287;&#8287; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=she-code-africa&repo=WOSCA-FE&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
-#### 📊 Github Stats
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lezette&hide=stars,issues&show_icons=true&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats) &#8287;&#8287;&#8287;&#8287;&#8287; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lezette&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- Github Streak by DenverCoder1 - https://github.com/DenverCoder1/github-readme-streak-stats -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lezette&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2FBE&currStreakNum=DD7AC8&fire=8C96DD&currStreakLabel=7478DD&stroke=A0C3DD)](https://git.io/streak-stats)
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Lezette&bg_color=000000&color=4b9baf&line=b9a2b7&point=2b6f91&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
 
 <!--
 **Lezette/Lezette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

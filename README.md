@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate frontend developer who's all about creati
 ### 👩🏾‍💻 About me
 
 - 🌱 I am currently learning system design, web core vitals, and performance.
-- 🔭 I’m currently working on [She Code Africa](https://github.com/she-code-africa/SCA-WEBSITE-V3) website.
+- 🔭 I’m currently working on a new website for [She Code Africa](https://github.com/she-code-africa/SCA-WEBSITE-V3).
 - ⭐️ I'm looking to contribute to open-source projects that raise awareness about web accessibility.
 - 🤔 I’m looking for help with understanding frontend 3d animations and how they work.
 - 💬 Ask me about web accessibility or creating a better experience for women in the tech community!

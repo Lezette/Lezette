@@ -35,7 +35,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/elizabeth
 ### 📌 Open-source projects I've contributed to 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=layer5io&repo=layer5&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-&#8287;&#8287;&#8287;&#8287;&#8287; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=she-code-africa&repo=SCA-WEBSITE-V3&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) &#8287;&#8287;&#8287;&#8287;&#8287; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=she-code-africa&repo=WOSCA-FE&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+&#8287;&#8287;&#8287;&#8287;&#8287;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=she-code-africa&repo=SCA-WEBSITE-V3&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) &#8287;&#8287;&#8287;&#8287;&#8287;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=she-code-africa&repo=WOSCA-FE&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Lezette/Lezette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

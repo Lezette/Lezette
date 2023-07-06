@@ -8,10 +8,10 @@ Welcome to my GitHub! I'm a passionate frontend developer who's all about creati
 - 🌱 I am currently learning system design, web core vitals, and performance.
 - 🔭 I’m currently working on [She Code Africa](https://github.com/she-code-africa/SCA-WEBSITE-V3) website.
 - ⭐️ I'm looking to contribute to open-source projects that raise awareness about web accessibility.
-- 🤔 I’m looking for help with improving my frontend animations and website performance.
+- 🤔 I’m looking for help with understanding frontend 3d animations and how they work.
 - 💬 Ask me about web accessibility or creating a better experience for women in the tech community!
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I used to work as a backend PHP developer, specializing in Laravel. However, my true passion for web development blossomed when I discovered frontend work. Since then, I've found great joy in creating amazing user experiences.
+- ⚡ Fun fact: I used to work as a backend PHP developer, specializing in Laravel. However, my true passion for web development blossomed when I started frontend. Since then, I've found great joy in creating amazing user experiences.
 - 🤖 Geeky fun fact: I'm a CSS enthusiast! I've gathered loads of interesting CSS facts and theories along the way. There's just something so cool about playing with CSS and creating eye-catching designs for websites.
 
 
@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a passionate frontend developer who's all about creati
 
 ### 📨 Connect with me
 
-Let's talk tech, collaborate on projects, or just shoot the breeze 🚀! I'm always up for meeting new people and discussing cool ideas. Whether it's AI, data visualization, web3, open-source, or technical writing,  I'm interested in it all!
+Let's talk tech, collaborate on projects, or just shoot the breeze 🚀! I'm always up for meeting new people and discussing cool ideas. Whether it's AI, animation, a11y, open-source, or technical writing,  I'm interested in it all!
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/elizabeth-lola/)  
 

@@ -8,11 +8,12 @@ Welcome to my GitHub! I'm a passionate frontend developer who's all about creati
 - 🌱 I am currently learning system design, web core vitals, and performance.
 - 🔭 I’m currently working on a new website for [She Code Africa](https://github.com/she-code-africa/SCA-WEBSITE-V3).
 - ⭐️ I'm looking to contribute to open-source projects that raise awareness about web accessibility.
-- 🤔 I’m looking for help with understanding frontend 3d animations and how they work.
+- 🤔 I’m looking for help with understanding frontend 3D animations and how they work.
 - 💬 Ask me about web accessibility or creating a better experience for women in the tech community!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I used to work as a backend PHP developer, specializing in Laravel. However, my true passion for web development blossomed when I started frontend. Since then, I've found great joy in creating amazing user experiences.
 - 🤖 Geeky fun fact: I'm a CSS enthusiast! I've gathered loads of interesting CSS facts and theories along the way. There's just something so cool about playing with CSS and creating eye-catching designs for websites.
+- 🛫 I'm a digital nomad
 
 
 ### 💡 Skills:

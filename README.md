@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate frontend developer who's all about creati
 
 ### 👩🏾‍💻 About me
 
-- 🌱 I am currently GSAP animations.
+- 🌱 I am currently learning GSAP animations.
 - 🔭 I’m currently working on the new [She Code Africa](https://github.com/she-code-africa/SCA-WEBSITE-V3) website.
 - 👩🏾‍💻I am also working on a personal travel blog with WordPress (I hate WordPress so I might switch to another CMS) [Wandawave](https://wandawave.com/)
 - ⭐️ I'm looking to contribute to open-source projects that raise awareness about web accessibility.

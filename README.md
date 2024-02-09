@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a passionate frontend developer who's all about creati
 - 🛠️ Testing: Jest, react-testing-library, Cypress
 - 🛠️ Accessibility: I have experience in implementing accessibility standards, and running automated, manual, and assistive technology a11y testing.
 - 🛠️ Interactivity: I have experience in creating interactive features and implementing smooth web animations.
-- 🛠️ Technical writing: I currently write beginner-friendly articles on [dev.to](https://dev.to/ilizette) and freeCodeCamp(https://www.freecodecamp.org/news/author/elizabeth).
+- 🛠️ Technical writing: I currently write beginner-friendly articles on [dev.to](https://dev.to/ilizette) and [freeCodeCamp](https://www.freecodecamp.org/news/author/elizabeth).
   
 🎯 I am always eager to stay updated with the latest frontend technologies and best practices to enhance my development process.
 

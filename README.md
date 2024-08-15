@@ -1,16 +1,12 @@
 
 ## Hey there 👋🏾, I'm Elizabeth
 
-Welcome to my GitHub! I'm a passionate frontend developer who's all about creating awesome and user-friendly products. Currently, I work at [Workshop Orange](https://workshoporange.co/), where we make sure our clients get exceptional experiences while providing high-quality solutions. My specialties? Scalability, accessibility, and interactivity. 
+Welcome to my GitHub! I'm a passionate frontend developer who's all about creating awesome and user-friendly products. Currently, I work at [Workshop Orange](https://workshoporange.co/), where we ensure our clients get exceptional experiences while providing high-quality solutions. My specialties? Scalability, accessibility, and interactivity. 
 
 ### 👩🏾‍💻 About me
 
 - 😄 Pronouns: She/Her
-- 🌱 I am currently learning GSAP animations.
-- 🔭 I’m currently working on the new [She Code Africa](https://github.com/she-code-africa/SCA-WEBSITE-V3) website.
-- 👩🏾‍💻I am also working on improving my Data Structure and Algorithms skills by trying out challenges from Leetcode or Hackerrank 
 - ⭐️ I'm looking to contribute to open-source projects that raise awareness about web accessibility.
-- 🤔 I’m looking for help with understanding frontend 3D animations and how they work.
 - 💬 Ask me about web accessibility or creating a better experience for women in the tech community!
 - ⚡ Fun fact: I used to work as a backend PHP developer, specializing in Laravel. However, my true passion for web development blossomed when I started frontend. Since then, I've found great joy in creating amazing user experiences.
 - 🤖 Geeky fun fact: I'm a CSS enthusiast! I've gathered loads of interesting CSS facts and theories along the way. There's just something so cool about playing with CSS and creating eye-catching website designs.

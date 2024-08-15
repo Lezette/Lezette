@@ -16,7 +16,8 @@ Welcome to my GitHub! I'm a passionate frontend developer who's all about creati
 ### 💡 Skills:
 
 - 🛠️ Frontend: CSS, HTML, React/Gatsby/NextJS, Vue/Nuxt, Typescript.  
-- 🛠️ Testing: Jest, react-testing-library, Cypress
+- 🛠️ Testing and Security best practices
+- 🛠️ Frontend performance optimization 
 - 🛠️ Accessibility: I have experience implementing accessibility standards, and running automated, manual, and assistive technology a11y testing.
 - 🛠️ Interactivity: I have experience creating interactive features and implementing smooth web animations.
 - 🛠️ Technical writing: I currently write beginner-friendly articles on [dev.to](https://dev.to/ilizette) and [freeCodeCamp](https://www.freecodecamp.org/news/author/elizabeth).

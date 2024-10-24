@@ -2,7 +2,7 @@
 ## Hey! I'm Elizabeth
 
 I'm a curious individual and just a _tiny bit_ obsessed with frontend development and making the web accessible—no big deal! 
-In my role as a Frontend Developer at [Workshop Orange](https://hello.workshoporange.co/), I contribute to delivering exceptional user experiences while ensuring high-quality and scalable solutions. My core areas of expertise include accessibility, scalability, and interactive design. Beyond tech I'm basically a plant-hoarding goblin plotting a mini jungle that will someday take over my living room.
+In my role as a Frontend Developer at [Workshop Orange](https://hello.workshoporange.co/), I contribute to delivering exceptional user experiences while ensuring high-quality and scalable solutions. My core areas of expertise include accessibility, scalability, and interactive design. Beyond tech, I'm basically a plant-hoarding goblin plotting a mini jungle that will someday take over my living room.
 
 
 ### 👩🏾‍💻 About me
@@ -24,5 +24,5 @@ I write beginner-friendly articles on [dev.to](https://dev.to/ilizette) and [fre
 - 💬 I found myself in a rabbit hole researching Bézier curves and now I believe I understand SVG
 - ⚡ I used to work as a backend PHP developer, using CodeIgniter and Laravel.
 - 🤖 I'm a CSS geek and if you don't stop me I might just spend hours talking about them
-- 💪🏾 I'm a gym rat and I skip a lot, my current record is skipping for 10 minutes nonstop and 3 minutes with weighted rope nonstop
+- 💪🏾 I'm a gym girly and I skip a lot, my current record is skipping for 10 minutes nonstop and 3 minutes with weighted rope
 - 🛫 I'm a part-time digital nomad

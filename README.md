@@ -24,6 +24,5 @@ I write beginner-friendly articles on [dev.to](https://dev.to/ilizette) and [fre
 ### Fun facts
 - 💬 I found myself in a rabbit hole researching Bézier curves and now I believe I understand SVG
 - ⚡ I used to work as a backend PHP developer, using CodeIgniter and Laravel.
-- 🤖 I'm a CSS geek and if you don't stop me I might just spend hours talking about them
+- 🤖 I'm a CSS geek
 - 💪🏾 I'm a gym girly and I skip a lot, my current record is skipping for 10 minutes nonstop and 3 minutes with weighted rope
-- 🛫 I'm a part-time digital nomad

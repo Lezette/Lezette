@@ -12,10 +12,11 @@ In my role as a Frontend Developer at [Workshop Orange](https://hello.workshopor
 
 ### 💡 Skills:
 
-- 🛠️ Frontend: CSS, HTML, React/NextJS, Typescript.  
-- 🛠️ Testing and Security best practices
+- 🛠️ Frontend: CSS, HTML, React/NextJS, Typescript
+- 🛠️ Web Accessibility
+- 🛠️ Testing and security best practices
 - 🛠️ Frontend performance optimization 
-- 🛠️ Accessibility
+
 
 ### Technical writing
 I write beginner-friendly articles on [dev.to](https://dev.to/ilizette) and [freeCodeCamp](https://www.freecodecamp.org/news/author/elizabethmeshioye/).

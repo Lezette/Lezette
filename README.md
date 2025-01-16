@@ -17,10 +17,10 @@ In my role as a Frontend Developer at [Workshop Orange](https://hello.workshopor
 - 🛠️ Frontend performance optimization 
 
 
-### Technical writing
+### 📝 Technical writing
 I write beginner-friendly articles on [dev.to](https://dev.to/ilizette) and [freeCodeCamp](https://www.freecodecamp.org/news/author/elizabethmeshioye/).
 
-### Fun facts
+### 🥳 Fun facts
 - 💬 I found myself in a rabbit hole researching Bézier curves and now I believe I understand SVG
 - ⚡ I used to work as a backend PHP developer, using CodeIgniter and Laravel.
 - 🤖 I'm a CSS geek
